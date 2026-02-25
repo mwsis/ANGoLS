@@ -1,5 +1,10 @@
 # **ANGoLS** Changes
 
+## 0.10.0-beta3 - 26th February 2026
+
+* added `ParseKeyValuePairsList()`;
+
+
 ## 0.10.0-beta2 - 15th February 2026
 
 * added `GenerateSlice[T]()`;
