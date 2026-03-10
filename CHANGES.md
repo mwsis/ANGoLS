@@ -1,5 +1,10 @@
 # **ANGoLS** Changes
 
+## 0.10.0 - 10th March 2026
+
+* 0.10.0;
+
+
 ## 0.10.0-beta3 - 26th February 2026
 
 * added `ParseKeyValuePairsList()`;

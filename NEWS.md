@@ -3,6 +3,7 @@
 
 | Date                | News Item                                                                                                  |
 | ------------------- | ---------------------------------------------------------------------------------------------------------- |
+| 10th March 2026     | Release of [**ANGoLS** 0.10.0](https://github.com/synesissoftware/ANGoLS/releases/tag/0.10.0)              |
 | 26th February 2026  | Release of [**ANGoLS** 0.10.0-beta3](https://github.com/synesissoftware/ANGoLS/releases/tag/0.10.0-beta3)  |
 | 15th February 2026  | Release of [**ANGoLS** 0.10.0-beta2](https://github.com/synesissoftware/ANGoLS/releases/tag/0.10.0-beta2)  |
 | 7th February 2026   | Release of [**ANGoLS** 0.10.0-beta1](https://github.com/synesissoftware/ANGoLS/releases/tag/0.10.0-beta1)  |
